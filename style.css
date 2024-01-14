@@ -1,0 +1,29 @@
+h1{
+    margin: auto;
+text-align: center;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    
+}
+li{
+    list-style: none;
+}
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    text-align: center;
+    width: 500px;
+    align-items: center;
+display: flex;
+margin: auto;
+}
